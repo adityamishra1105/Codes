@@ -1,0 +1,18 @@
+//Program to print hello world in java.
+
+public class FirstProgram{
+  public static void main(Strin[] args){
+    System.out.println("Hello World");
+  }
+}
+
+//Now, the first code is the toughest as it has got so many keywords within it. Don't worry, its not as tough as it seems.
+
+// public - Used to declare that a class or method is accessible to all other classes.
+// class - Defines a class named FirstProgram.
+// static - Indicates that the main method belongs to the class itself rather than to instances of the class.
+// void - Means that the method does not produce any result or output.
+// main - It serves as the entry point, The Java Virtual Machine (JVM) looks for the main method to start the execution of the program.
+// String[] - It denotes an array of String objects.
+// args - It is a parameter of the main method that allows command-line arguments to be passed to the program.
+// System.out.println("Hello World") - Prints "Hello World" followed by a new line to the console.
